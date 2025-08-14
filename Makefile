@@ -11,7 +11,7 @@ LUCI_DEPENDS:=+speedtest-web
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.0
 PKG_RELEASE:=1
-PKG_MAINTAINER:=<https://github.com/ZeaKyX/luci-app-speedtest-web>
+PKG_MAINTAINER:=<https://github.com/y12800/luci-app-speedtest-web>
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
